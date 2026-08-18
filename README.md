@@ -1,6 +1,6 @@
 # veedeez
 
-my vd shit lol
+my vd shit to evaluate the performance of motor powered baby driven unicycles.
 
 Install MFEVAL, run the solver, then run one of the visualization options.
 
