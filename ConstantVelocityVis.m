@@ -1,5 +1,4 @@
-%% Visualize steady-state sweep results
-% Run steady_state_sweep.m first so the result maps and sweep vectors exist.
+%% Run The Solver First
 
 g = 9.80665;
 
