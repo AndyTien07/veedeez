@@ -14,5 +14,6 @@ Constant Radius-> filters vs and displays steer degrees vs Velocity. Set to skid
 
 Constant Velocity-> shows all possible radii at velocity
 
-YMD -> good ol' yaw moment diagram. shows all velocity but you can change to filter for a specific one
+YMD -> Yaw Moment Diagram for all velocities
 
+Vis-> Basic Vistualization, shows YMD and states at a given velocity as well as the highest steady state G of all velocities 
