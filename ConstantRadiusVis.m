@@ -1,7 +1,5 @@
 
-% Run steady_state_sweep.m first. This script expects:
-% ayMap, radiusMap, yawMomentMap, convergedMap,
-% Velocities, SteerAnglesDeg, and BodySlipAnglesDeg.
+%% Run the Solver First
 
 g = 9.80665;
 
