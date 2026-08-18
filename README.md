@@ -16,4 +16,4 @@ Constant Velocity-> shows all possible radii at velocity
 
 YMD -> Yaw Moment Diagram for all velocities
 
-Vis-> Basic Vistualization, shows YMD and states at a given velocity as well as the highest steady state G of all velocities 
+Vis-> Basic Visualization, shows YMD and states at a given velocity as well as the highest steady state G of all velocities 
